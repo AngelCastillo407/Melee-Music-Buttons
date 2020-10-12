@@ -1,6 +1,6 @@
 # Melee-Music-Buttons
 
-This project is for Super Smash Brothers Melee gameplay via Slippi. Due to the lack of BGM during gameplay, I felt there was a void and sought to create something to fill it. :)
+This Unity project is for Super Smash Brothers Melee gameplay via Slippi. Due to the lack of BGM during gameplay, I felt there was a void and sought to create something to fill it. :)
 
 On start, you will be displayed the classic stage list of Melee that we all know and love. In Slippi, queue up and wait for a match to start. Once the stage you will be playing on is revealed, simply go to this application and click on the corresponding stage. You will now have working stage BGM as you punch your way to Victory!
 
